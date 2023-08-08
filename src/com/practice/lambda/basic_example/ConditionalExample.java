@@ -1,4 +1,4 @@
-package com.practice.lambda.example;
+package com.practice.lambda.basic_example;
 
 import java.util.function.Function;
 import java.util.function.Predicate;

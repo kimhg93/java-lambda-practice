@@ -1,4 +1,4 @@
-package com.practice.lambda.example;
+package com.practice.lambda.basic_example;
 
 /**
  * 문자열 처리 예제
